@@ -1,9 +1,8 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+title: Syntax Highlighting
+metaTitle: Syntax Highlighting is the meta title tag for this page
+metaDescription: This is the meta description for this page
 ---
-
 The following is a code block with JavaScript language syntax highlighting.
 
 ```javascript
@@ -23,4 +22,8 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 
 ```javascript react-live=true
 <button className={'btn btn-default'}>Change my text</button>
+
+$x$
+
+$$s$$
 ```
