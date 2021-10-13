@@ -3,6 +3,12 @@ title: Syntax Highlighting
 metaTitle: Syntax Highlighting is the meta title tag for this page
 metaDescription: This is the meta description for this page
 ---
+$x$
+
+$$s$$
+
+
+
 The following is a code block with JavaScript language syntax highlighting.
 
 ```javascript
@@ -16,6 +22,12 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 ```javascript
 - const data = ['1','2'];
 + const data = [1,2];
+
+$x$
+
+$$s$$
+
+
 ```
 
 ## Live Editing example
